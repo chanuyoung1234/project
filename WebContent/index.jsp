@@ -17,6 +17,7 @@
 <body>
 
 <div class="solo">임찬영</div>
-
+<div>작성자 줄</div>
+========
 </body>
 </html>
