@@ -42,7 +42,6 @@
 	</td>
 	</tr>
 	
-	
 	<tr>
 		<td>
 <div class="input-group">
